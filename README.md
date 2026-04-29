@@ -1,21 +1,20 @@
 <div align="center">
-# Oi, eu sou a Jade 👩‍💻
+
+# Oi, eu sou a Jade 💅
+
+Backend  
+Python (Django), Java (Spring), Golang (Gin)  
+APIs • Microservices • Financial Systems  
+
 </div>
 
 <div align="center">
-Backend 
-Python (Django), Java (Spring), Golang (GIN)
-APIs • Microservices • Financial Systems
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jade27gomes&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jade27gomes&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jade27gomes&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jade27gomes&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
 
 
 <div align="center">
@@ -24,6 +23,8 @@ APIs • Microservices • Financial Systems
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:js27gomes@gmail.com)
 
 </div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jade27gomes/Jade27gomes/output/github-contribution-grid-snake-dark.svg"/>
