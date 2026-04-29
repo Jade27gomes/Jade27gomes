@@ -1,16 +1,11 @@
 <div align="center">
-
-<img src="https://tenor.com/pt-BR/view/firewood-fire-calcifer-howls-moving-castle-gif-16359216" width="110px"/>
-
-# Oi, eu sou a Jade Gomes 👩‍💻
-
+# Oi, eu sou a Jade 👩‍💻
 </div>
 
 <div align="center">
-
-💡 Backend Developer apaixonada por transformar regras complexas em sistemas simples  
-🔗 APIs • Microsserviços • Integrações financeiras  
-⚙️ Python (Django) • Java (Spring) • Golang  
+Backend 
+Python (Django), Java (Spring), Golang (GIN)
+APIs • Microservices • Financial Systems
 
 </div>
 
